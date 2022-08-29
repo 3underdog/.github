@@ -9,9 +9,9 @@ Eslint 자동화 및 커밋 규칙은 다음 파일을 통해 규칙을 확인�
 > Husky & Lint Staged / Conventional Commit Lint - commitlint.config.js
 
 정 어쩔 수 없는 경우 다음 라인을 해당 에러 위에 추가해주세요
-1. any 타입 필요한 경우 (예시. 테이블 헤더 api fetch 할때 타입 바뀔 수 있음)
+> any 타입 필요한 경우 (예시. 테이블 헤더 api fetch 할때 타입 바뀔 수 있음)
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
-2. 라이브러리 사용시 unused vars 생기는경우 커밋되지 않음
+> 라이브러리 사용시 unused vars 생기는경우 커밋되지 않음
 // eslint-disable-next-line unused-imports/no-unused-vars
 
 로컬 테스트
