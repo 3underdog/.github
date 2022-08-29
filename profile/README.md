@@ -30,8 +30,10 @@ Eslint 자동화 및 커밋 규칙은 다음 파일을 통해 규칙을 확인�
 > STACK : Fast API
 
 ```
+.env 파일이 필요합니다.
+
 도커환경에서 테스트
-docker-compose -f docker-compose-local.yml up -d
+docker-compose -f docker-compose.yml up -d
 
 pipenv 가상환경에서 테스트
 1. pipenv install
