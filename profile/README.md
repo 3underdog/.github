@@ -1,3 +1,6 @@
+.env 파일과 배포 및 aws 설정 노션을 확인해주세요.
+
+
 ## Web
 
 > STACK : Next.js 12 + Typescript + Tailwind CSS 3
