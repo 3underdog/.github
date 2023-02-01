@@ -3,7 +3,7 @@
 
 ## Web
 
-#### https://www.nangmanski.com
+#### nangmanski-web-v2.vercel.app
 
 > STACK : Next.js 12 + Typescript + Tailwind CSS 3
 
