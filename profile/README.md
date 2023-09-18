@@ -1,6 +1,7 @@
 .env 파일과 배포 및 aws 설정 노션을 확인해주세요.
 
 
+
 ## Web
 
 #### nangmanski-web-v2.vercel.app
